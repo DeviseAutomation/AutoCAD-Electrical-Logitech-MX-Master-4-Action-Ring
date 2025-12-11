@@ -34,10 +34,11 @@ In my case I used Inkscape.  With the Supplied "TEMPLATE.svg", import the new Ic
 <br />
 
 # Importing Action Ring Profile
+- Make sure "Adapt to App" is enabled after importing.
 
 <br />
 
-https://github.com/user-attachments/assets/80bdacbc-3ac7-4761-9700-44227a0660c2
+https://github.com/user-attachments/assets/3073538d-a198-4699-9d13-183a8660437e
 
 
 
