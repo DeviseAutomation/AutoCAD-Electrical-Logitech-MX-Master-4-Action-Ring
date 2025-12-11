@@ -2,7 +2,7 @@
 
 ### Requirements
 
-- Logitech MX Master 4 (I have not tested on other devices that support "Action Ring"
+- Logitech MX Master 4 (I have not tested on other devices that support "Action Ring")
 - Logi Options+
 - AutoCAD Electrical (Tested on 2024)
 
