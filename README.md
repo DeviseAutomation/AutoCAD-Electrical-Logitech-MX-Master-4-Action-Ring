@@ -30,5 +30,14 @@ You can add further macros to fit your needs as well as Icons.  To find the Icon
 These Icons then need to be converted from .bmp to .png or other supported Logitech Icon Format.
 In my case I used Inkscape.  With the Supplied "TEMPLATE.svg", import the new Icon into the project and replace the existing.
 
+<br />
+<br />
+
+# Importing Action Ring Profile
+
+<br />
+
+https://github.com/user-attachments/assets/80bdacbc-3ac7-4761-9700-44227a0660c2
+
 
 
