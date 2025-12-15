@@ -1,4 +1,4 @@
-# Logitech MX Master 4S Action Ring Macros for AutoCAD Electrical
+# Logitech MX Master 4 Action Ring Macros for AutoCAD Electrical
 
 ### Requirements
 
